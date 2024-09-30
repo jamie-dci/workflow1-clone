@@ -1,3 +1,3 @@
 # workflow1-clone
 
-Good morning E08!
+Guten Morgen E08!
